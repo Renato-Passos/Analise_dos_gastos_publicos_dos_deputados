@@ -42,7 +42,7 @@ gastos.groupby("Nome").mean()["Gastos"].sort_values().nlargest(25)
 
 ## Elaboração dos gráficos
 
-###Usamos as informações tratadas para criação de 4 gráficos:
+#### Usamos as informações tratadas para criação de 4 gráficos:
 
 1. Despesas individuais;
 2. Despesas por partido;
